@@ -53,14 +53,6 @@ java -cp bin main.Main
 
 ---
 
-## 🛠️ Próximos passos
-
-* [ ] Suporte a múltiplos formatos de arquivo
-* [ ] Melhorar a interface do usuário (CLI ou GUI)
-* [ ] Gerar relatórios automáticos com mais detalhes
-
----
-
 ## 👨‍💻 Autor
 
 * **Thyago Gontijo** – [GitHub](https://github.com/thgontijo)
