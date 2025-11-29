@@ -56,3 +56,10 @@ java -cp bin main.Main
 ## 👨‍💻 Autor
 
 * **Thyago Gontijo** – [GitHub](https://github.com/thgontijo)
+
+---
+
+## ⚠️ Aviso
+
+Este projeto foi criado **apenas para estudo pessoal** e prática de Java, manipulação de arquivos e regex.  
+Não é destinado a uso em produção ou projetos comerciais.
